@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "389265876894",
+    "project_id": "mumysfood-6720d",
+    "storage_bucket": "mumysfood-6720d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389265876894:android:5b51dde3c73c2dd0fad88f",
+        "android_client_info": {
+          "package_name": "com.momstiffin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9UUCxhQ8levMy1emyCCiEsxwvCPOAWlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
